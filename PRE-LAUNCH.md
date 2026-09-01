@@ -1,7 +1,7 @@
 # Pre-launch checklist
 
 - [ ] Домен, DNS і SSL налаштовані
-- [ ] `ugcallcentre.ua` замінено в canonical, Open Graph, Schema, robots і sitemap
+- [ ] `ugcallcentre.com.ua` використано в canonical, Open Graph, Schema, robots і sitemap
 - [ ] Підтверджено Google Search Console та надіслано sitemap
 - [ ] Додано реальні ID GA4, GTM, Meta Pixel, Clarity, TikTok і LinkedIn
 - [ ] Перевірено cookie consent і FormSubmit

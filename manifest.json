@@ -1,9 +1,9 @@
 {
   "name": "UG Call Centre",
   "short_name": "UG CC",
-  "description": "Професійний аутсорсинговий call-центр для інтернет-магазинів.",
+  "description": "Аутсорс call-центр для товарного бізнесу.",
   "lang": "uk-UA",
-  "start_url": "https://ugcallcentre.ua/",
+  "start_url": "https://ugcallcentre.com.ua/",
   "display": "standalone",
   "background_color": "#0E1117",
   "theme_color": "#D8FF3F",
@@ -34,6 +34,6 @@
       "purpose": "any maskable"
     }
   ],
-  "id": "https://ugcallcentre.ua/",
-  "scope": "https://ugcallcentre.ua/"
+  "id": "https://ugcallcentre.com.ua/",
+  "scope": "https://ugcallcentre.com.ua/"
 }
